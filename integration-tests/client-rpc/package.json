@@ -24,7 +24,7 @@
     "lossless-json": "^1.0.3",
     "mocha": "^7.1.1",
     "sinon": "^7.3.2",
-    "source-map-support": "^0.5.12",
+    "source-map-support": "^0.5.19",
     "ts-node": "^8.1.0",
     "typescript": "^3.4.5"
   }
