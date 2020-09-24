@@ -11,7 +11,7 @@
   "dependencies": {
     "@types/bignumber.js": "^5.0.0",
     "@types/bluebird-global": "^3.5.11",
-    "@types/chai": "^4.1.7",
+    "@types/chai": "^4.2.12",
     "@types/chai-as-promised": "^7.1.0",
     "@types/mocha": "^5.2.6",
     "@types/node": "^12.7.2",
