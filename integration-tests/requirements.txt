@@ -7,7 +7,7 @@ chardet==3.0.4
 click==6.7
 -e ./bot
 fire==0.2.1
-idna==2.8
+idna==3.7
 importlib-metadata==1.4.0
 iso8601==0.1.12
 jsonpatch==1.24
